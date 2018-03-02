@@ -4,6 +4,6 @@
   Escrito em Ionic 3.
 # Download
   Faça download ou clone deste projeto
-* https://github.com/HenriqueGarcez/ModelProjeto1Daw.git
+* https://github.com/HenriqueGarcez/Projeto_Ionic.git
 
 
