@@ -3,7 +3,7 @@
 # Especificações  
   Desenvolvido com Ionic 3.
 # Download
-  Faça download ou clone deste projeto
+  Faça download ou clone do projeto
 * https://github.com/HenriqueGarcez/Projeto_Ionic.git
 
 
